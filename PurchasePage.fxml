@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<AnchorPane prefHeight="538.0" prefWidth="759.0" style="-fx-background-color: #EADAD6;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javaproject.PurchasePageController">
+   <children>
+      <BorderPane blendMode="DARKEN" prefHeight="87.0" prefWidth="759.0" style="-fx-background-color: #9b14b6;">
+         <center>
+            <ImageView fx:id="jjtext_pp" fitHeight="133.0" fitWidth="285.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+               <image>
+                  <Image url="@jjtext.png" />
+               </image>
+            </ImageView>
+         </center>
+      </BorderPane>
+      <TableView fx:id="table_pp" layoutX="26.0" layoutY="139.0" prefHeight="300.0" prefWidth="707.0" />
+      <ImageView fx:id="jjlogo_pp" fitHeight="69.0" fitWidth="112.0" layoutX="36.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@jjlogo.png" />
+         </image>
+      </ImageView>
+      <TextField fx:id="search_pp" layoutX="222.0" layoutY="98.0" prefHeight="26.0" prefWidth="346.0" />
+      <ImageView fx:id="searchlogo_pp" fitHeight="26.0" fitWidth="27.0" layoutX="190.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@search_dark.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="add_pp" layoutX="296.0" layoutY="456.0" mnemonicParsing="false" onAction="#printSelectedProduct" prefHeight="43.0" prefWidth="186.0" text="Add to Cart" textFill="#6a2186" />
+      <Button fx:id="checkout_pp" layoutX="591.0" layoutY="25.0" mnemonicParsing="false" onAction="#handleCartButtonClicked" prefHeight="43.0" prefWidth="136.0">
+         <graphic>
+            <ImageView fitHeight="35.0" fitWidth="38.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@cart_dark.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
