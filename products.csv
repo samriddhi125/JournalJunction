@@ -1,0 +1,201 @@
+product_id,description,price,quantity_in_stock,category,subcategory,product_type,brand,color,size,quantity_sold
+P000000,"Classmate Paper Organizers Paper Clips",50.00,12,"Office Supplies","Paper Organizers","Paper Clips",Classmate,NULL,Regular,29
+P000001,"Kangaroo Pads & Loose Sheets Loose Sheets",68.00,45,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Kangaroo,NULL,A4,11
+P000002,"Reynolds Pen Gel Pen",13.00,67,Stationery,Pen,"Gel Pen",Reynolds,Black,Regular,29
+P000003,"Kokuyo Camlin Others Highlighter",21.00,21,Stationery,Others,Highlighter,"Kokuyo Camlin",NULL,NULL,22
+P000004,"Classmate Desk Organizers Book Ends",42.00,53,"Office Supplies","Desk Organizers","Book Ends",Classmate,NULL,Regular,89
+P000005,"Reynolds Art Pencils Colored",25.00,25,ArtCraft,"Art Pencils",Colored,Reynolds,Single,Regular,12
+P000006,"Kangaroo Paper Organizers Other Fasteners",3.00,99,"Office Supplies","Paper Organizers","Other Fasteners",Kangaroo,NULL,Regular,17
+P000007,"Classmate Art Pencils Sketch",95.00,94,ArtCraft,"Art Pencils",Sketch,Classmate,Multi,Regular,62
+P000008,"Reynolds Markers & Pens Permanent",51.00,99,ArtCraft,"Markers & Pens",Permanent,Reynolds,"Single Color",Regular,32
+P000009,"Classmate Others Sticky Note",61.00,17,Stationery,Others,"Sticky Note",Classmate,NULL,NULL,56
+P000010,"Kokuyo Camlin Art Pencils Colored",95.00,23,ArtCraft,"Art Pencils",Colored,"Kokuyo Camlin",Multi,Regular,42
+P000011,"Reynolds Craft Materials Stencils & Stamps",32.00,11,ArtCraft,"Craft Materials","Stencils & Stamps",Reynolds,NULL,NULL,64
+P000012,"Reynolds Art Pencils Sketch",33.00,24,ArtCraft,"Art Pencils",Sketch,Reynolds,Multi,Regular,45
+P000013,"Navneet Desk Organizers Book Ends",50.00,14,"Office Supplies","Desk Organizers","Book Ends",Navneet,NULL,Regular,83
+P000014,"Classmate Desk Organizers Pen Stand",71.00,54,"Office Supplies","Desk Organizers","Pen Stand",Classmate,NULL,Regular,29
+P000015,"Kokuyo Camlin File Organizers Binder",8.00,12,"Office Supplies","File Organizers",Binder,"Kokuyo Camlin",Multi,A4,88
+P000016,"Classmate Pads & Loose Sheets Loose Sheets",53.00,82,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Classmate,NULL,A4,4
+P000017,"Classmate Paper Organizers Staplers & Punches",56.00,78,"Office Supplies","Paper Organizers","Staplers & Punches",Classmate,NULL,Regular,84
+P000018,"Navneet Card Holder Name Badge",19.00,6,"Office Supplies","Card Holder","Name Badge",Navneet,NULL,NULL,32
+P000019,"Classmate Craft Materials Tape & Glue",84.00,6,ArtCraft,"Craft Materials","Tape & Glue",Classmate,NULL,NULL,17
+P000020,"Navneet Notebook Subject",0.00,98,Stationery,Notebook,Subject,Navneet,Black,A4,55
+P000021,"Kangaroo Markers & Pens Brush Pens",46.00,31,ArtCraft,"Markers & Pens","Brush Pens",Kangaroo,"Single Color",Regular,77
+P000022,"Kokuyo Camlin Notebook Ruled",63.00,34,Stationery,Notebook,Ruled,"Kokuyo Camlin",Blue,A6,94
+P000023,"Navneet Desk Organizers Book Ends",89.00,33,"Office Supplies","Desk Organizers","Book Ends",Navneet,NULL,Regular,99
+P000024,"Kokuyo Camlin Others Sharpener",5.00,84,Stationery,Others,Sharpener,"Kokuyo Camlin",NULL,NULL,81
+P000025,"Kokuyo Camlin Pads & Loose Sheets Loose Sheets",7.00,2,ArtCraft,"Pads & Loose Sheets","Loose Sheets","Kokuyo Camlin",NULL,A6,5
+P000026,"Kokuyo Camlin Art Pencils Sketch",84.00,84,ArtCraft,"Art Pencils",Sketch,"Kokuyo Camlin",Multi,Regular,96
+P000027,"Kokuyo Camlin File Organizers Binder",72.00,75,"Office Supplies","File Organizers",Binder,"Kokuyo Camlin",Multi,A5,7
+P000028,"Classmate Paints Acrylic",66.00,11,ArtCraft,Paints,Acrylic,Classmate,Multi,Single,81
+P000029,"Kangaroo Card Holder Card Holder",70.00,64,"Office Supplies","Card Holder","Card Holder",Kangaroo,NULL,NULL,96
+P000030,"Navneet Desk Organizers Pen Stand",25.00,10,"Office Supplies","Desk Organizers","Pen Stand",Navneet,NULL,Regular,29
+P000031,"Kokuyo Camlin Pen Ball Pen",86.00,89,Stationery,Pen,"Ball Pen","Kokuyo Camlin",Red,Regular,11
+P000032,"Classmate Pencil Wooden",8.00,6,Stationery,Pencil,Wooden,Classmate,Yellow,Regular,54
+P000033,"Kangaroo Paints Glass",81.00,64,ArtCraft,Paints,Glass,Kangaroo,"Single Color",Single,47
+P000034,"Kangaroo Paper Organizers Paper Clips",90.00,68,"Office Supplies","Paper Organizers","Paper Clips",Kangaroo,NULL,Regular,14
+P000035,"Navneet Notebook Plain",56.00,43,Stationery,Notebook,Plain,Navneet,Blue,A5,39
+P000036,"Kokuyo Camlin Pen Ball Pen",68.00,7,Stationery,Pen,"Ball Pen","Kokuyo Camlin",Red,Regular,8
+P000037,"Classmate Notebook Ruled",85.00,16,Stationery,Notebook,Ruled,Classmate,Red,A4,84
+P000038,"Classmate Paints Oil",6.00,99,ArtCraft,Paints,Oil,Classmate,Multi,"Pack of 12",29
+P000039,"Classmate Markers & Pens Brush Pens",43.00,64,ArtCraft,"Markers & Pens","Brush Pens",Classmate,"Single Color",Regular,44
+P000040,"Reynolds Card Holder Card Holder",50.00,31,"Office Supplies","Card Holder","Card Holder",Reynolds,NULL,NULL,59
+P000041,"Reynolds Pen Gel Pen",3.00,75,Stationery,Pen,"Gel Pen",Reynolds,Red,Regular,34
+P000042,"Navneet Others Sharpener",88.00,97,Stationery,Others,Sharpener,Navneet,NULL,NULL,29
+P000043,"Classmate Paper Organizers Other Fasteners",31.00,68,"Office Supplies","Paper Organizers","Other Fasteners",Classmate,NULL,Regular,39
+P000044,"Kangaroo Pen Gel Pen",99.00,7,Stationery,Pen,"Gel Pen",Kangaroo,Black,Regular,60
+P000045,"Kokuyo Camlin Pencil Wooden",82.00,7,Stationery,Pencil,Wooden,"Kokuyo Camlin",Blue,Regular,47
+P000046,"Kokuyo Camlin Art Pencils Sketch",77.00,52,ArtCraft,"Art Pencils",Sketch,"Kokuyo Camlin",Single,Regular,10
+P000047,"Reynolds Desk Organizers Pen Stand",16.00,69,"Office Supplies","Desk Organizers","Pen Stand",Reynolds,NULL,Regular,3
+P000048,"Navneet Pencil Wooden",62.00,61,Stationery,Pencil,Wooden,Navneet,Yellow,Regular,64
+P000049,"Navneet Paper Organizers Paper Clips",5.00,99,"Office Supplies","Paper Organizers","Paper Clips",Navneet,NULL,Regular,37
+P000050,"Reynolds File Organizers Folder",97.00,99,"Office Supplies","File Organizers",Folder,Reynolds,Multi,A4,87
+P000051,"Kokuyo Camlin Card Holder Name Badge",52.00,92,"Office Supplies","Card Holder","Name Badge","Kokuyo Camlin",NULL,NULL,3
+P000052,"Reynolds Craft Materials Stencils & Stamps",45.00,63,ArtCraft,"Craft Materials","Stencils & Stamps",Reynolds,NULL,NULL,29
+P000053,"Classmate Card Holder Card Holder",99.00,14,"Office Supplies","Card Holder","Card Holder",Classmate,NULL,NULL,56
+P000054,"Classmate Pen Gel Pen",56.00,0,Stationery,Pen,"Gel Pen",Classmate,Blue,Regular,85
+P000055,"Navneet Notebook Subject",17.00,69,Stationery,Notebook,Subject,Navneet,Red,A4,98
+P000056,"Classmate Markers & Pens Calligraphy Pens",28.00,2,ArtCraft,"Markers & Pens","Calligraphy Pens",Classmate,Multi,Regular,67
+P000057,"Kangaroo Others Eraser",6.00,97,Stationery,Others,Eraser,Kangaroo,NULL,NULL,81
+P000058,"Reynolds Pads & Loose Sheets Loose Sheets",36.00,54,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Reynolds,NULL,A4,15
+P000059,"Navneet Others Sticky Note",35.00,52,Stationery,Others,"Sticky Note",Navneet,NULL,NULL,71
+P000060,"Reynolds Pencil Mechanical",81.00,31,Stationery,Pencil,Mechanical,Reynolds,Black,Regular,44
+P000061,"Navneet Pencil Mechanical",61.00,5,Stationery,Pencil,Mechanical,Navneet,Yellow,Regular,7
+P000062,"Reynolds Paper Organizers Other Fasteners",14.00,40,"Office Supplies","Paper Organizers","Other Fasteners",Reynolds,NULL,Regular,24
+P000063,"Navneet Paints Glass",76.00,27,ArtCraft,Paints,Glass,Navneet,"Single Color","Pack of 6",35
+P000064,"Kokuyo Camlin Paper Organizers Other Fasteners",32.00,99,"Office Supplies","Paper Organizers","Other Fasteners","Kokuyo Camlin",NULL,Regular,46
+P000065,"Classmate Paper Organizers Other Fasteners",44.00,66,"Office Supplies","Paper Organizers","Other Fasteners",Classmate,NULL,Regular,51
+P000066,"Navneet Craft Materials Stickers & Decorations",21.00,52,ArtCraft,"Craft Materials","Stickers & Decorations",Navneet,NULL,NULL,56
+P000067,"Reynolds Card Holder Card Holder",62.00,65,"Office Supplies","Card Holder","Card Holder",Reynolds,NULL,NULL,0
+P000068,"Reynolds Pen Fountain Pen",85.00,49,Stationery,Pen,"Fountain Pen",Reynolds,Red,Regular,31
+P000069,"Navneet Desk Organizers Pen Stand",88.00,29,"Office Supplies","Desk Organizers","Pen Stand",Navneet,NULL,Regular,36
+P000070,"Kokuyo Camlin Card Holder Card Holder",97.00,14,"Office Supplies","Card Holder","Card Holder","Kokuyo Camlin",NULL,NULL,89
+P000071,"Navneet Markers & Pens Brush Pens",9.00,63,ArtCraft,"Markers & Pens","Brush Pens",Navneet,"Single Color",Regular,16
+P000072,"Kokuyo Camlin Card Holder Name Badge",39.00,20,"Office Supplies","Card Holder","Name Badge","Kokuyo Camlin",NULL,NULL,80
+P000073,"Kangaroo Card Holder Card Holder",19.00,99,"Office Supplies","Card Holder","Card Holder",Kangaroo,NULL,NULL,5
+P000074,"Reynolds Craft Materials Stencils & Stamps",20.00,75,ArtCraft,"Craft Materials","Stencils & Stamps",Reynolds,NULL,NULL,23
+P000075,"Reynolds Paints Glass",28.00,22,ArtCraft,Paints,Glass,Reynolds,"Single Color","Pack of 12",66
+P000076,"Reynolds Paints Glass",59.00,4,ArtCraft,Paints,Glass,Reynolds,"Single Color","Pack of 6",27
+P000077,"Kokuyo Camlin Card Holder Name Badge",94.00,3,"Office Supplies","Card Holder","Name Badge","Kokuyo Camlin",NULL,NULL,2
+P000078,"Kangaroo Card Holder Name Badge",24.00,30,"Office Supplies","Card Holder","Name Badge",Kangaroo,NULL,NULL,84
+P000079,"Kokuyo Camlin Others Highlighter",17.00,89,Stationery,Others,Highlighter,"Kokuyo Camlin",NULL,NULL,66
+P000080,"Kokuyo Camlin Markers & Pens Calligraphy Pens",25.00,49,ArtCraft,"Markers & Pens","Calligraphy Pens","Kokuyo Camlin","Single Color",Regular,95
+P000081,"Reynolds Pads & Loose Sheets Loose Sheets",5.00,53,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Reynolds,NULL,A6,25
+P000082,"Navneet Paper Organizers Staplers & Punches",81.00,15,"Office Supplies","Paper Organizers","Staplers & Punches",Navneet,NULL,Regular,22
+P000083,"Navneet Card Holder Name Badge",85.00,59,"Office Supplies","Card Holder","Name Badge",Navneet,NULL,NULL,17
+P000084,"Classmate Notebook Subject",43.00,61,Stationery,Notebook,Subject,Classmate,Red,A4,45
+P000085,"Reynolds Pads & Loose Sheets Loose Sheets",39.00,55,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Reynolds,NULL,A4,83
+P000086,"Kangaroo Art Pencils Colored",63.00,7,ArtCraft,"Art Pencils",Colored,Kangaroo,Single,Regular,39
+P000087,"Navneet Pencil Mechanical",81.00,37,Stationery,Pencil,Mechanical,Navneet,Blue,Regular,95
+P000088,"Kangaroo Markers & Pens White Board",43.00,87,ArtCraft,"Markers & Pens","White Board",Kangaroo,Multi,Regular,83
+P000089,"Kokuyo Camlin Pads & Loose Sheets Sketch & Paint Pads",21.00,55,ArtCraft,"Pads & Loose Sheets","Sketch & Paint Pads","Kokuyo Camlin",NULL,A6,19
+P000090,"Kangaroo Pen Ball Pen",44.00,16,Stationery,Pen,"Ball Pen",Kangaroo,Black,Regular,49
+P000091,"Reynolds Art Pencils Colored",65.00,5,ArtCraft,"Art Pencils",Colored,Reynolds,Multi,Regular,15
+P000092,"Navneet Notebook Plain",79.00,37,Stationery,Notebook,Plain,Navneet,Black,A6,69
+P000093,"Navneet Others Sticky Note",66.00,48,Stationery,Others,"Sticky Note",Navneet,NULL,NULL,84
+P000094,"Kokuyo Camlin Art Pencils Sketch",28.00,49,ArtCraft,"Art Pencils",Sketch,"Kokuyo Camlin",Single,Regular,79
+P000095,"Navneet Card Holder Name Badge",37.00,88,"Office Supplies","Card Holder","Name Badge",Navneet,NULL,NULL,63
+P000096,"Kokuyo Camlin Art Pencils Colored",88.00,9,ArtCraft,"Art Pencils",Colored,"Kokuyo Camlin",Single,Regular,55
+P000097,"Navneet Pen Ball Pen",0.00,34,Stationery,Pen,"Ball Pen",Navneet,Black,Regular,63
+P000098,"Kokuyo Camlin Desk Organizers Pen Stand",26.00,31,"Office Supplies","Desk Organizers","Pen Stand","Kokuyo Camlin",NULL,Regular,89
+P000099,"Kangaroo Paints Water",70.00,46,ArtCraft,Paints,Water,Kangaroo,"Single Color","Pack of 12",58
+P000100,"Classmate Pads & Loose Sheets Loose Sheets",58.00,5,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Classmate,NULL,A5,66
+P000101,"Reynolds Others Sharpener",78.00,35,Stationery,Others,Sharpener,Reynolds,NULL,NULL,14
+P000102,"Classmate Pencil Wooden",31.00,48,Stationery,Pencil,Wooden,Classmate,Black,Regular,79
+P000103,"Classmate Craft Materials Stencils & Stamps",19.00,98,ArtCraft,"Craft Materials","Stencils & Stamps",Classmate,NULL,NULL,90
+P000104,"Kokuyo Camlin Card Holder Card Holder",33.00,69,"Office Supplies","Card Holder","Card Holder","Kokuyo Camlin",NULL,NULL,84
+P000105,"Navneet Pads & Loose Sheets Loose Sheets",92.00,17,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Navneet,NULL,A5,66
+P000106,"Navneet Pen Ball Pen",46.00,51,Stationery,Pen,"Ball Pen",Navneet,Blue,Regular,19
+P000107,"Navneet Pen Ball Pen",86.00,70,Stationery,Pen,"Ball Pen",Navneet,Red,Regular,31
+P000108,"Reynolds Markers & Pens White Board",83.00,50,ArtCraft,"Markers & Pens","White Board",Reynolds,"Single Color",Regular,94
+P000109,"Kokuyo Camlin Paper Organizers Paper Clips",49.00,97,"Office Supplies","Paper Organizers","Paper Clips","Kokuyo Camlin",NULL,Regular,32
+P000110,"Kangaroo Desk Organizers Book Ends",47.00,11,"Office Supplies","Desk Organizers","Book Ends",Kangaroo,NULL,Regular,31
+P000111,"Reynolds Desk Organizers Book Ends",4.00,96,"Office Supplies","Desk Organizers","Book Ends",Reynolds,NULL,Regular,59
+P000112,"Kokuyo Camlin Pads & Loose Sheets Sketch & Paint Pads",87.00,21,ArtCraft,"Pads & Loose Sheets","Sketch & Paint Pads","Kokuyo Camlin",NULL,A4,93
+P000113,"Navneet Card Holder Card Holder",10.00,98,"Office Supplies","Card Holder","Card Holder",Navneet,NULL,NULL,49
+P000114,"Reynolds Markers & Pens Permanent",97.00,27,ArtCraft,"Markers & Pens",Permanent,Reynolds,"Single Color",Regular,91
+P000115,"Kangaroo Markers & Pens White Board",87.00,62,ArtCraft,"Markers & Pens","White Board",Kangaroo,Multi,Regular,52
+P000116,"Kangaroo Desk Organizers Pen Stand",21.00,82,"Office Supplies","Desk Organizers","Pen Stand",Kangaroo,NULL,Regular,40
+P000117,"Navneet Craft Materials Stickers & Decorations",93.00,76,ArtCraft,"Craft Materials","Stickers & Decorations",Navneet,NULL,NULL,96
+P000118,"Kangaroo Markers & Pens Brush Pens",69.00,34,ArtCraft,"Markers & Pens","Brush Pens",Kangaroo,"Single Color",Regular,87
+P000119,"Classmate Craft Materials Stencils & Stamps",7.00,93,ArtCraft,"Craft Materials","Stencils & Stamps",Classmate,NULL,NULL,29
+P000120,"Reynolds Paper Organizers Staplers & Punches",41.00,86,"Office Supplies","Paper Organizers","Staplers & Punches",Reynolds,NULL,Regular,11
+P000121,"Kokuyo Camlin Paints Acrylic",99.00,91,ArtCraft,Paints,Acrylic,"Kokuyo Camlin",Multi,Single,4
+P000122,"Reynolds Pads & Loose Sheets Loose Sheets",92.00,24,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Reynolds,NULL,A5,10
+P000123,"Classmate Pads & Loose Sheets Sketch & Paint Pads",94.00,25,ArtCraft,"Pads & Loose Sheets","Sketch & Paint Pads",Classmate,NULL,A6,8
+P000124,"Classmate File Organizers Binder",23.00,20,"Office Supplies","File Organizers",Binder,Classmate,Multi,A6,67
+P000125,"Reynolds Card Holder Card Holder",46.00,67,"Office Supplies","Card Holder","Card Holder",Reynolds,NULL,NULL,53
+P000126,"Navneet Card Holder Name Badge",89.00,42,"Office Supplies","Card Holder","Name Badge",Navneet,NULL,NULL,22
+P000127,"Navneet Paper Organizers Paper Clips",61.00,52,"Office Supplies","Paper Organizers","Paper Clips",Navneet,NULL,Regular,90
+P000128,"Classmate Pencil Wooden",26.00,74,Stationery,Pencil,Wooden,Classmate,Black,Regular,10
+P000129,"Reynolds Art Pencils Sketch",71.00,49,ArtCraft,"Art Pencils",Sketch,Reynolds,Single,Regular,49
+P000130,"Reynolds Desk Organizers Pen Stand",70.00,43,"Office Supplies","Desk Organizers","Pen Stand",Reynolds,NULL,Regular,53
+P000131,"Classmate Desk Organizers Book Ends",6.00,9,"Office Supplies","Desk Organizers","Book Ends",Classmate,NULL,Regular,65
+P000132,"Kangaroo Paper Organizers Staplers & Punches",99.00,72,"Office Supplies","Paper Organizers","Staplers & Punches",Kangaroo,NULL,Regular,8
+P000133,"Classmate Card Holder Card Holder",84.00,73,"Office Supplies","Card Holder","Card Holder",Classmate,NULL,NULL,62
+P000134,"Reynolds Notebook Ruled",87.00,18,Stationery,Notebook,Ruled,Reynolds,Black,A6,68
+P000135,"Kangaroo Notebook Plain",17.00,22,Stationery,Notebook,Plain,Kangaroo,Black,A4,49
+P000136,"Classmate Markers & Pens Permanent",42.00,45,ArtCraft,"Markers & Pens",Permanent,Classmate,Multi,Regular,69
+P000137,"Classmate Card Holder Card Holder",75.00,32,"Office Supplies","Card Holder","Card Holder",Classmate,NULL,NULL,74
+P000138,"Kokuyo Camlin File Organizers Folder",5.00,66,"Office Supplies","File Organizers",Folder,"Kokuyo Camlin",Multi,A5,13
+P000139,"Navneet Pads & Loose Sheets Loose Sheets",33.00,63,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Navneet,NULL,A6,18
+P000140,"Classmate Markers & Pens White Board",14.00,49,ArtCraft,"Markers & Pens","White Board",Classmate,Multi,Regular,74
+P000141,"Kangaroo Markers & Pens Calligraphy Pens",1.00,70,ArtCraft,"Markers & Pens","Calligraphy Pens",Kangaroo,"Single Color",Regular,19
+P000142,"Classmate Desk Organizers Pen Stand",95.00,91,"Office Supplies","Desk Organizers","Pen Stand",Classmate,NULL,Regular,89
+P000143,"Reynolds Pads & Loose Sheets Loose Sheets",18.00,27,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Reynolds,NULL,A6,41
+P000144,"Kangaroo Card Holder Card Holder",37.00,76,"Office Supplies","Card Holder","Card Holder",Kangaroo,NULL,NULL,8
+P000145,"Kangaroo Pencil Wooden",37.00,46,Stationery,Pencil,Wooden,Kangaroo,Blue,Regular,35
+P000146,"Kokuyo Camlin Paper Organizers Paper Clips",96.00,40,"Office Supplies","Paper Organizers","Paper Clips","Kokuyo Camlin",NULL,Regular,25
+P000147,"Navneet Pen Gel Pen",97.00,41,Stationery,Pen,"Gel Pen",Navneet,Red,Regular,36
+P000148,"Kangaroo Markers & Pens Calligraphy Pens",25.00,87,ArtCraft,"Markers & Pens","Calligraphy Pens",Kangaroo,"Single Color",Regular,91
+P000149,"Kangaroo Notebook Ruled",50.00,39,Stationery,Notebook,Ruled,Kangaroo,Red,A5,13
+P000150,"Kangaroo Notebook Ruled",90.00,62,Stationery,Notebook,Ruled,Kangaroo,Red,A5,13
+P000151,"Classmate Paper Organizers Paper Clips",45.00,95,"Office Supplies","Paper Organizers","Paper Clips",Classmate,NULL,Regular,41
+P000152,"Navneet Craft Materials Stencils & Stamps",12.00,34,ArtCraft,"Craft Materials","Stencils & Stamps",Navneet,NULL,NULL,3
+P000153,"Reynolds Others Eraser",97.00,45,Stationery,Others,Eraser,Reynolds,NULL,NULL,41
+P000154,"Navneet Others Sticky Note",99.00,23,Stationery,Others,"Sticky Note",Navneet,NULL,NULL,26
+P000155,"Kangaroo Desk Organizers Pen Stand",72.00,40,"Office Supplies","Desk Organizers","Pen Stand",Kangaroo,NULL,Regular,32
+P000156,"Navneet Art Pencils Colored",3.00,94,ArtCraft,"Art Pencils",Colored,Navneet,Single,Regular,35
+P000157,"Kangaroo Pencil Mechanical",82.00,74,Stationery,Pencil,Mechanical,Kangaroo,Yellow,Regular,39
+P000158,"Kangaroo Desk Organizers Book Ends",68.00,40,"Office Supplies","Desk Organizers","Book Ends",Kangaroo,NULL,Regular,81
+P000159,"Classmate Pencil Wooden",23.00,0,Stationery,Pencil,Wooden,Classmate,Blue,Regular,15
+P000160,"Kangaroo Pads & Loose Sheets Sketch & Paint Pads",88.00,69,ArtCraft,"Pads & Loose Sheets","Sketch & Paint Pads",Kangaroo,NULL,A6,32
+P000161,"Kangaroo Paints Glass",21.00,53,ArtCraft,Paints,Glass,Kangaroo,Multi,"Pack of 6",81
+P000162,"Kokuyo Camlin Paints Glass",15.00,96,ArtCraft,Paints,Glass,"Kokuyo Camlin","Single Color",Single,31
+P000163,"Classmate File Organizers Binder",9.00,11,"Office Supplies","File Organizers",Binder,Classmate,Multi,A6,45
+P000164,"Reynolds Desk Organizers Book Ends",59.00,58,"Office Supplies","Desk Organizers","Book Ends",Reynolds,NULL,Regular,73
+P000165,"Navneet Paper Organizers Paper Clips",97.00,18,"Office Supplies","Paper Organizers","Paper Clips",Navneet,NULL,Regular,93
+P000166,"Kokuyo Camlin Paints Acrylic",96.00,47,ArtCraft,Paints,Acrylic,"Kokuyo Camlin",Multi,"Pack of 6",94
+P000167,"Navneet Desk Organizers Book Ends",56.00,63,"Office Supplies","Desk Organizers","Book Ends",Navneet,NULL,Regular,58
+P000168,"Classmate Paper Organizers Paper Clips",20.00,41,"Office Supplies","Paper Organizers","Paper Clips",Classmate,NULL,Regular,23
+P000169,"Kangaroo Pen Fountain Pen",99.00,45,Stationery,Pen,"Fountain Pen",Kangaroo,Blue,Regular,73
+P000170,"Kokuyo Camlin File Organizers Folder",24.00,27,"Office Supplies","File Organizers",Folder,"Kokuyo Camlin",Multi,A4,60
+P000171,"Classmate Card Holder Card Holder",4.00,60,"Office Supplies","Card Holder","Card Holder",Classmate,NULL,NULL,14
+P000172,"Kokuyo Camlin Others Sharpener",49.00,78,Stationery,Others,Sharpener,"Kokuyo Camlin",NULL,NULL,24
+P000173,"Kangaroo Paper Organizers Staplers & Punches",93.00,34,"Office Supplies","Paper Organizers","Staplers & Punches",Kangaroo,NULL,Regular,2
+P000174,"Navneet Pencil Wooden",88.00,65,Stationery,Pencil,Wooden,Navneet,Black,Regular,73
+P000175,"Navneet Pads & Loose Sheets Loose Sheets",55.00,48,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Navneet,NULL,A5,43
+P000176,"Reynolds Craft Materials Stencils & Stamps",71.00,11,ArtCraft,"Craft Materials","Stencils & Stamps",Reynolds,NULL,NULL,5
+P000177,"Kangaroo File Organizers Folder",49.00,46,"Office Supplies","File Organizers",Folder,Kangaroo,Multi,A5,74
+P000178,"Classmate Craft Materials Stencils & Stamps",46.00,98,ArtCraft,"Craft Materials","Stencils & Stamps",Classmate,NULL,NULL,73
+P000179,"Reynolds Paints Oil",47.00,82,ArtCraft,Paints,Oil,Reynolds,Multi,"Pack of 12",38
+P000180,"Kokuyo Camlin Others Sharpener",50.00,22,Stationery,Others,Sharpener,"Kokuyo Camlin",NULL,NULL,10
+P000181,"Classmate File Organizers Folder",25.00,10,"Office Supplies","File Organizers",Folder,Classmate,Multi,A4,17
+P000182,"Kokuyo Camlin Others Sticky Note",84.00,12,Stationery,Others,"Sticky Note","Kokuyo Camlin",NULL,NULL,20
+P000183,"Navneet Pencil Wooden",66.00,98,Stationery,Pencil,Wooden,Navneet,Black,Regular,19
+P000184,"Classmate Markers & Pens White Board",91.00,77,ArtCraft,"Markers & Pens","White Board",Classmate,Multi,Regular,23
+P000185,"Classmate Craft Materials Stickers & Decorations",77.00,23,ArtCraft,"Craft Materials","Stickers & Decorations",Classmate,NULL,NULL,56
+P000186,"Kokuyo Camlin Desk Organizers Book Ends",29.00,68,"Office Supplies","Desk Organizers","Book Ends","Kokuyo Camlin",NULL,Regular,40
+P000187,"Navneet Pads & Loose Sheets Loose Sheets",45.00,16,ArtCraft,"Pads & Loose Sheets","Loose Sheets",Navneet,NULL,A4,13
+P000188,"Classmate Pencil Mechanical",83.00,75,Stationery,Pencil,Mechanical,Classmate,Black,Regular,82
+P000189,"Classmate Paints Glass",51.00,37,ArtCraft,Paints,Glass,Classmate,"Single Color",Single,71
+P000190,"Navneet Art Pencils Sketch",40.00,31,ArtCraft,"Art Pencils",Sketch,Navneet,Single,Regular,71
+P000191,"Classmate Desk Organizers Book Ends",36.00,53,"Office Supplies","Desk Organizers","Book Ends",Classmate,NULL,Regular,68
+P000192,"Reynolds Notebook Ruled",91.00,44,Stationery,Notebook,Ruled,Reynolds,Black,A5,98
+P000193,"Kokuyo Camlin Pencil Mechanical",92.00,41,Stationery,Pencil,Mechanical,"Kokuyo Camlin",Yellow,Regular,73
+P000194,"Kangaroo Paints Glass",27.00,28,ArtCraft,Paints,Glass,Kangaroo,Multi,Single,91
+P000195,"Classmate Paints Acrylic",27.00,82,ArtCraft,Paints,Acrylic,Classmate,Multi,"Pack of 12",64
+P000196,"Kokuyo Camlin Paints Oil",11.00,50,ArtCraft,Paints,Oil,"Kokuyo Camlin",Multi,"Pack of 6",6
+P000197,"Navneet Paper Organizers Staplers & Punches",80.00,31,"Office Supplies","Paper Organizers","Staplers & Punches",Navneet,NULL,Regular,88
+P000198,"Navneet Markers & Pens Brush Pens",41.00,90,ArtCraft,"Markers & Pens","Brush Pens",Navneet,"Single Color",Regular,85
+P000199,"Classmate Pencil Wooden",39.00,40,Stationery,Pencil,Wooden,Classmate,Yellow,Regular,90
