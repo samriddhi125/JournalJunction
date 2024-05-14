@@ -1,1 +1,311 @@
-
+customer_id,name,password,email,address,phone_number,card_number
+C000000,"Piya Kapoor",#2LEOurv,PiyaKapoor@example.com,"38/076
+Bora Zila, Fatehpur 402119",3817548954,1044621811276795
+C000001,"Riya Savant",+4eNhljn,RiyaSavant@example.com,"39/788, Bose Marg
+Navi Mumbai 644861",9233407056,68906300795841
+C000002,"Divyansh Dixit",$h0KZAml,DivyanshDixit@example.com,"H.No. 58, Devan Marg, Muzaffarpur-625980",3815003291,9270263183208272
+C000003,"Alia Behl",&g64(Iv%,AliaBehl@example.com,"779
+Ghose Road, Dibrugarh 304857",4483246874,6876530064218504
+C000004,"Devansh Sahni",$2ZFvvcv,DevanshSahni@example.com,"H.No. 895
+Agarwal Ganj
+Vasai-Virar 422434",2731403882,529498476496634
+C000005,"Ishita Bajwa",KG*8@_Ua,IshitaBajwa@example.com,"04/716, Upadhyay
+Gurgaon-156727",1703463778,1504050396277583
+C000006,"Suhana Char",_HPR6Xfm,SuhanaChar@example.com,"690
+Goel Zila
+Pimpri-Chinchwad 709969",0892313371,3499981971506309
+C000007,"Vivaan Kadakia",*vW4ZuEB,VivaanKadakia@example.com,"H.No. 149
+Sekhon, Rajpur Sonarpur 465420",9922845213,4904947082393643
+C000008,"Vaibhav Ghose",&G#01Ng4,VaibhavGhose@example.com,"H.No. 876, Mall Chowk
+Uluberia 402426",9021193638,8332981842867394
+C000009,"Shanaya Yogi",o!3Hg7Vy,ShanayaYogi@example.com,"68/780, Sunder Street
+Bathinda-521241",1792225057,8385749836326025
+C000010,"Tejas Bera",A%#)6RiP,TejasBera@example.com,"20/689
+Taneja Marg, Anantapuram 862620",5146927473,1390235840670280
+C000011,"Inaaya  Bhatia",gRH_x8Qw,InaayaBhatia@example.com,"H.No. 96
+Upadhyay Ganj, Muzaffarnagar-252584",9876489568,5054006256930769
+C000012,"Vihaan Acharya",#50Wq(R$,VihaanAcharya@example.com,"920, Madan Chowk, Naihati-691027",9966178981,1730496407253551
+C000013,"Renee Gopal",h+(*G4Uo,ReneeGopal@example.com,"48/186
+Butala Street, Bhatpara-466887",9668361240,9950259632165720
+C000014,"Heer Iyengar",i1#1ZtEs,HeerIyengar@example.com,"H.No. 77, Devi Road
+Bahraich-256852",9077684390,3221922106002635
+C000015,"Saira Thakkar",&6$b2DJg,SairaThakkar@example.com,"H.No. 52
+Handa Path
+Dewas-683223",5380623475,7730930594671330
+C000016,"Shanaya Sura",m6&$4Bty,ShanayaSura@example.com,"27, Deol
+Fatehpur 300059",6709556695,6215656520570093
+C000017,"Shalv Bansal",Y#6AjeLo,ShalvBansal@example.com,"340
+Gandhi Street
+Unnao 885072",5169254188,8617428965068674
+C000018,"Ritvik Ganguly",k&I9yQjg,RitvikGanguly@example.com,"H.No. 93
+Dua Street, Jhansi 156266",5523628368,5797765234485278
+C000019,"Mishti Soman",Rc&64O3p,MishtiSoman@example.com,"H.No. 84
+Lata Road, Bharatpur 048946",6918358130,3166819685519086
+C000020,"Manjari Bhakta",+#)^3Php,ManjariBhakta@example.com,"641, Kale Ganj
+Rajpur Sonarpur 837493",2145131300,5447412183931436
+C000021,"Mannat Suri",&x9Hodv6,MannatSuri@example.com,"82/337
+Lala Circle, Belgaum 607688",3980099115,1525274128589695
+C000022,"Kismat Saxena",+599iMVu,KismatSaxena@example.com,"24, Gulati Circle
+Ahmedabad 055105",8647056690,9222269784741148
+C000023,"Stuvan Iyer",_3!yPv1X,StuvanIyer@example.com,"40/72
+Goyal Road
+Vadodara 192741",2367770642,7257034000949544
+C000024,"Aaryahi Rajagopalan",Tl)Y9JEl,AaryahiRajagopalan@example.com,"419
+Choudhary Street, Tadipatri 381750",7061914709,2046939541848077
+C000025,"Abram De",W@5SdDj7,AbramDe@example.com,"51/225
+De, Darbhanga-541792",7158707233,2360571229615465
+C000026,"Mishti Mammen",t!4LCom@,MishtiMammen@example.com,"69/996
+Date Street, Sasaram-436902",3990426639,4556876476370064
+C000027,"Indrans Agate",^1rN(jMD,IndransAgate@example.com,"88/09, Mann Path, Latur 842325",8119122684,5410146457204930
+C000028,"Jivika Lalla",&)#64GSh,JivikaLalla@example.com,"863, Bhasin Road
+Ongole 356775",0555522261,1196617085473733
+C000029,"Zoya Bassi",%FK%2RZx,ZoyaBassi@example.com,"H.No. 43
+Grover Circle
+Saharanpur-318276",1060001085,5962971188953865
+C000030,"Mohanlal Chokshi",#me5WZFo,MohanlalChokshi@example.com,"468, Ramachandran Marg
+Chapra-103770",1746010901,803580174494736
+C000031,"Hazel Sunder",vu&9Lwm6,HazelSunder@example.com,"53/430, Sodhi Marg
+Bhopal-306441",2043964756,4008492559588063
+C000032,"Sana Agrawal",)7$wZ5Xw,SanaAgrawal@example.com,"88, Lad Marg
+Kozhikode 498498",9569627583,339009707341579
+C000033,"Onkar Mann",%@95!P4u,OnkarMann@example.com,"27/68, Mann Road, Kishanganj-212783",6340636834,5948284488624695
+C000034,"Zaina Dey",s+5Bw)XK,ZainaDey@example.com,"H.No. 532, Thaman, Bokaro-608451",1100818238,6309121713166981
+C000035,"Aarna Setty",^5LD9Ke9,AarnaSetty@example.com,"H.No. 54, Mallick
+Satara 617921",5100772260,3650098656658432
+C000036,"Vanya Bajaj",VaB^2Twz,VanyaBajaj@example.com,"H.No. 00, Kibe Road
+Dehradun 239307",6439026091,9252639617358967
+C000037,"Jayan Tandon",_0C)f7It,JayanTandon@example.com,"82
+Deshpande Nagar
+Chinsurah 647232",1764810675,3451305746929705
+C000038,"Dhanuk Basu",*81rRnQk,DhanukBasu@example.com,"87
+Chhabra Nagar, Begusarai-617996",9546946059,4240454186553994
+C000039,"Rhea Kanda",_2YYco7%,RheaKanda@example.com,"H.No. 605, Vora, Dindigul 566043",9422121214,8741767396418380
+C000040,"Vardaniya Kadakia",5m_0ITah,VardaniyaKadakia@example.com,"00/606, Wable Nagar
+Danapur-329815",3593842750,284014321680462
+C000041,"Ishita Bedi",^(8fsHVm,IshitaBedi@example.com,"52/69
+Ramakrishnan Zila, Chandigarh 852905",2285425956,2085514852020071
+C000042,"Samaira Srivastava",)7+93HpD,SamairaSrivastava@example.com,"H.No. 360
+Upadhyay, Aligarh 731104",0666189262,2704383305238498
+C000043,"Darshit Karan",c^o0lUcO,DarshitKaran@example.com,"H.No. 366, Rana Circle, Tiruvottiyur-705995",8315031695,4102905844206279
+C000044,"Shray Bhatti",^Z4nVZ7y,ShrayBhatti@example.com,"39/43
+Bhavsar Zila, Akola-836614",0757390682,5674025705255059
+C000045,"Kavya Bail",(#X8gNzT,KavyaBail@example.com,"25, Sachdeva Street
+Rourkela 109041",8748202728,266099563195589
+C000046,"Zoya Sane",D+lX8BKz,ZoyaSane@example.com,"H.No. 14, Uppal Nagar
+Vasai-Virar 009108",6300716864,7204293365753927
+C000047,"Shlok Bains",w!I5ZFoF,ShlokBains@example.com,"H.No. 03, Gaba
+Rampur 401765",5578036938,6908570786404955
+C000048,"Renee Mannan",^Gq3PFdX,ReneeMannan@example.com,"944, Baria Ganj, Ahmednagar-695109",9924566191,2813768093137587
+C000049,"Urvi Som",w@6FsnVE,UrviSom@example.com,"47/978
+Borde Road, Siliguri 057945",4639031526,2082114287413389
+C000050,"Charvi Doshi",#!^7BiJR,CharviDoshi@example.com,"70
+Dutt
+Pimpri-Chinchwad 774833",3810424883,6473970879217419
+C000051,"Aradhya Maharaj",0^1%W_Zx,AradhyaMaharaj@example.com,"90/64
+Jhaveri
+Bhiwandi 306449",3479704917,242332290014672
+C000052,"Lakshit Thaker",$gQ%3%Sd,LakshitThaker@example.com,"10/081
+Ravi Chowk
+Thiruvananthapuram-226297",0653127310,6848696274857976
+C000053,"Kismat Thaman",!0KsNvjP,KismatThaman@example.com,"127, Bhatt Nagar, Darbhanga 372633",3728114074,4683454260852312
+C000054,"Reyansh D’Alia",E^@)Q8Sx,ReyanshDAlia@example.com,"27, Dixit Ganj
+Kurnool 193835",9368084787,386304032424256
+C000055,"Yashvi Chawla",+x0LEoco,YashviChawla@example.com,"60
+Sood
+Durgapur-122372",7819176948,4770218670319695
+C000056,"Tushar Aggarwal",__8DKw)e,TusharAggarwal@example.com,"53/89, Handa Street
+Nanded-628803",8830352839,5374784758811977
+C000057,"Tanya Dugar",Whz#6VFs,TanyaDugar@example.com,"H.No. 62, Handa Zila
+Raurkela Industrial Township-900266",1559255881,5041383324145596
+C000058,"Veer Ghose",E)9F1*dI,VeerGhose@example.com,"H.No. 58, Warrior, Dehradun 106644",3756865518,5021154270481793
+C000059,"Tushar Kala",N^59TgAD,TusharKala@example.com,"H.No. 69, Dhillon Street, Chandrapur 466959",4532738573,6658956626580271
+C000060,"Jayesh Dasgupta",g$E22OBk,JayeshDasgupta@example.com,"H.No. 57, Sastry Circle
+Tadepalligudem 931849",5856620907,1824306765242490
+C000061,"Shray Suri",0&9XkjtF,ShraySuri@example.com,"30, Deol Marg
+Erode-806144",6127562580,6747769826741431
+C000062,"Seher Tak",Q#1Y@x38,SeherTak@example.com,"H.No. 067
+Bath Circle, Pondicherry 502971",7044000976,3368482547072061
+C000063,"Diya Deo",@k7(LmIb,DiyaDeo@example.com,"H.No. 133
+Rege Ganj, Noida-630315",0768228194,2721148308746536
+C000064,"Vaibhav Sen",!5y8(DBu,VaibhavSen@example.com,"74
+Chahal Circle
+Machilipatnam 944148",2468604088,4472081093012647
+C000065,"Anahita Savant",$5$mO9bo,AnahitaSavant@example.com,"289
+Thakkar Nagar
+Farrukhabad 633674",8932460283,3011603440479223
+C000066,"Dhruv Hora",%u1M)utM,DhruvHora@example.com,"26/24
+Dua Street, Srikakulam 147834",6713627846,1511304213471087
+C000067,"Pranay Krishnamurthy",Sc_D9Bby,PranayKrishnamurthy@example.com,"H.No. 218
+Apte Marg, Nizamabad 590470",4101810730,234266301265103
+C000068,"Manjari Kapadia",+I5t6YKs,ManjariKapadia@example.com,"86/93
+Singhal Ganj, Bareilly-475311",8250797736,3055384737907602
+C000069,"Ahana  Setty",7%Zg1KRk,AhanaSetty@example.com,"H.No. 90
+Vasa Path, Ahmedabad 772749",7714217481,5499335916683570
+C000070,"Krish Rama",P*&c8Iaj,KrishRama@example.com,"38/599, Bhatti Road, Dehri 091218",9235335699,3826301033220838
+C000071,"Prisha Dhingra",$2LX8Mvt,PrishaDhingra@example.com,"H.No. 371
+Dayal Marg
+Kurnool-701991",6628569399,9441398465045876
+C000072,"Reyansh Randhawa",%8CWU*Eb,ReyanshRandhawa@example.com,"H.No. 93
+Subramanian Street
+Sambhal 413411",2296800629,5838566776243214
+C000073,"Rania Dixit",d&7#NhdF,RaniaDixit@example.com,"05, Tiwari Ganj, Madhyamgram 676824",8684286164,9565929174461642
+C000074,"Uthkarsh Kala",+5oWb9$p,UthkarshKala@example.com,"488
+Sahota Road, Guwahati 792954",8342638411,4505651689899620
+C000075,"Manikya Jha",)0Ql*1ga,ManikyaJha@example.com,"62, Vora Path, Mumbai 022180",4574317271,5783605518471452
+C000076,"Alisha Mann",%Fp8F*cA,AlishaMann@example.com,"H.No. 57
+Guha Zila
+Kakinada 614563",9116456064,3983780354686622
+C000077,"Mohanlal Mangal",)Yeu4POt,MohanlalMangal@example.com,"H.No. 845, Krish Zila
+Ahmednagar-552250",2387723178,7380399021607528
+C000078,"Vedika Gill",%+2nMWBo,VedikaGill@example.com,"12/36, Baral Street, Sasaram 307326",0929470006,1744530851393447
+C000079,"Mishti Maharaj",9_s0EBgq,MishtiMaharaj@example.com,"801
+Keer
+Amravati-707745",8129865317,3968743172805107
+C000080,"Advik Kara",&*p8N(&e,AdvikKara@example.com,"77
+Kumer Nagar, Malegaon-965386",9977203069,8513789575835545
+C000081,"Navya Aurora",5_b0(2Np,NavyaAurora@example.com,"H.No. 077, Tella Street
+Sirsa-882348",5400493118,2614308682182443
+C000082,"Vanya Sura",A%$8BgCy,VanyaSura@example.com,"99
+Viswanathan Ganj
+Ambala-165635",0354508554,8393944361573176
+C000083,"Veer Brar",#6D@4VUd,VeerBrar@example.com,"33/332
+Anand Marg
+Muzaffarpur 474532",4640378681,2933699426561655
+C000084,"Urvi Borah",)dYM8Chi,UrviBorah@example.com,"49/377, Sane Chowk, Bhagalpur-510540",1282330696,9184452345565260
+C000085,"Lagan Baral",4_g17L8i,LaganBaral@example.com,"H.No. 341, Handa Street
+Anand 560571",2935267567,4003447224082619
+C000086,"Rania Venkataraman",i@Bw7UNi,RaniaVenkataraman@example.com,"73/31, Badal Marg, Machilipatnam-304878",1786411641,8003795969047467
+C000087,"Miraya Edwin",eZ^0IleZ,MirayaEdwin@example.com,"H.No. 922, Divan Circle, Bhiwani-760222",9125737938,2632488631817928
+C000088,"Bhavin Saraf",_eP5Mam8,BhavinSaraf@example.com,"29, Hans Circle, Asansol-994337",7712523989,89012856637315
+C000089,"Badal Tella",5_1T6MgX,BadalTella@example.com,"070
+Mani Chowk, Bhilai-229880",0811913456,3997846375145519
+C000090,"Stuvan Ratta",$T9NU+Xb,StuvanRatta@example.com,"H.No. 52
+Ganesh Circle
+Silchar 600172",5194410271,5203221018100352
+C000091,"Mohanlal Sehgal",XS)K5Ulk,MohanlalSehgal@example.com,"H.No. 99
+Chander Path, Imphal-278941",0120953806,5242222179394795
+C000092,"Ivana Sarraf",@39UOlA#,IvanaSarraf@example.com,"79, Bhagat Road
+Ghaziabad-841643",4700864918,4082012727404884
+C000093,"Kanav Vyas",&19%obUh,KanavVyas@example.com,"44
+Dara Chowk
+Dehri-850065",1267067888,5533788962704801
+C000094,"Manjari Dara",!(7Fvj^@,ManjariDara@example.com,"23/48
+Butala Marg
+Mango 545070",9377362591,5979614293988531
+C000095,"Oorja Shetty",%0FdS6zx,OorjaShetty@example.com,"503
+Lad Path
+Mahbubnagar 333041",5107251224,1177378212941010
+C000096,"Zeeshan Krishna",)*C67Vsm,ZeeshanKrishna@example.com,"H.No. 92
+Gole Road, Akola-445726",9386386000,6037550619525017
+C000097,"Nitara Garg",^6Vsz5S+,NitaraGarg@example.com,"15/805, Dutt Marg, Varanasi 183349",9760452346,9338572653775030
+C000098,"Charvi Chauhan",$@v4Wcr9,CharviChauhan@example.com,"50/62
+Rana Road, Miryalaguda 313490",0310628533,8915850410993322
+C000099,"Myra Bhatnagar",*b6BtjDz,MyraBhatnagar@example.com,"102, Bera, Darbhanga 464009",3057052846,4681355998519970
+C000100,"Jayesh Bansal",&3YdQ2%m,JayeshBansal@example.com,"32/62
+Thaman Path
+Dibrugarh 814041",9080234983,878961236288953
+C000101,"Fateh Jain",q(77Ses%,FatehJain@example.com,"57/45, Bhargava Road, Kharagpur 914615",5515896822,444463760488561
+C000102,"Tanya Doshi",#1$Gvs&6,TanyaDoshi@example.com,"77/626, Aurora Circle, Bijapur 794453",6531914491,3102670931056091
+C000103,"Hiran Kota",)9!R_6Fl,HiranKota@example.com,"H.No. 772
+Vig Street
+Berhampore 021042",0240060395,8946563693046425
+C000104,"Nitya Bhasin",R&1YRpfQ,NityaBhasin@example.com,"320
+Seshadri
+Proddatur-471006",9637706186,5632261374980759
+C000105,"Tiya Bala",7#M+3Dvb,TiyaBala@example.com,"H.No. 215, Dutta Street, Hosur-503243",7481128532,7660880550462996
+C000106,"Aniruddh Kala",%+N_%7Fw,AniruddhKala@example.com,"09
+Walia, Barasat-112210",9235967305,8356883226631319
+C000107,"Divit Rana",l%G7Ek_E,DivitRana@example.com,"H.No. 45
+Kala Zila
+Jamnagar 709670",2119666728,7813488855836036
+C000108,"Jayan Rastogi",P_R2HZpf,JayanRastogi@example.com,"196
+Bhasin Circle
+Panchkula 429170",8777359421,6600677506858549
+C000109,"Jivika Khurana",c^8yX5jR,JivikaKhurana@example.com,"11/06
+Lall Road
+Jaunpur 512067",4410607905,8562089248591138
+C000110,"Ayesha Majumdar",@5P9D9l@,AyeshaMajumdar@example.com,"H.No. 365
+Sehgal Path, Navi Mumbai-544248",5782182112,6856402754551987
+C000111,"Arnav Balasubramanian",#(09Bk(6,ArnavBalasubramanian@example.com,"H.No. 602, Kothari Ganj
+Bettiah 263001",6807038847,6424138534351885
+C000112,"Shayak Kibe",IZ#7AN!s,ShayakKibe@example.com,"68/01, Chhabra Ganj
+Nanded-418943",6283577346,8389501441221382
+C000113,"Shalv Chana",o)9dvwYf,ShalvChana@example.com,"928, Vohra Circle
+Tezpur-587541",7564044927,3641105394668857
+C000114,"Divyansh Dua",eq@1Blbl,DivyanshDua@example.com,"H.No. 01, Rastogi Street
+Dehri 552589",4617956189,7331458059424879
+C000115,"Aayush Aggarwal",M+N3QQ3g,AayushAggarwal@example.com,"55/01
+Kar Path
+Bhopal 398235",1530508973,7527212623521254
+C000116,"Madhav Barman",#Z5Sq@jr,MadhavBarman@example.com,"75/42
+Gour Circle, Ambattur-747978",0001635003,6082806263425571
+C000117,"Nirvi Batra",&0pZanTf,NirviBatra@example.com,"35/092
+Khare Circle
+Kollam-218289",2490873669,44985777106928
+C000118,"Saksham Badal",!)6Hb!Dx,SakshamBadal@example.com,"993
+Bhatia Chowk, Thanjavur 206295",6775716447,3920672329126430
+C000119,"Jhanvi Dhawan",C&Y5dPPs,JhanviDhawan@example.com,"H.No. 48
+Bajwa Road
+Sirsa 154343",8544414547,4974658004557674
+C000120,"Kimaya Chad",p&#D6TTa,KimayaChad@example.com,"66, Grewal Zila
+Dewas-895683",9031832216,4130703135050712
+C000121,"Divyansh Cheema",w@8DPzAw,DivyanshCheema@example.com,"560
+Vaidya Ganj, Latur-558313",1145370653,948224711057183
+C000122,"Nehmat Taneja",Y)x3^Db&,NehmatTaneja@example.com,"H.No. 645, Sem Ganj
+Vellore-189567",8633490453,1940631864559745
+C000123,"Nirvaan Gulati",+C@&1dFn,NirvaanGulati@example.com,"29, Butala, Bhatpara 499797",8776242447,602395054593516
+C000124,"Krish Bhatt",L&6$MncC,KrishBhatt@example.com,"10
+Halder Marg
+Siwan-393041",7026986589,1483812833936320
+C000125,"Anay Deshmukh",*+$95BEy,AnayDeshmukh@example.com,"H.No. 16
+Chaudhry, Guwahati-035032",2431796957,8227916906424360
+C000126,"Faiyaz Sen",I(59bU1a,FaiyazSen@example.com,"H.No. 25, Buch Nagar
+Kottayam-781771",2980330298,866858177919681
+C000127,"Priyansh Sridhar",h@+U3SlD,PriyanshSridhar@example.com,"23, Deol Zila, Ramgarh-824803",4103364187,8967273852072767
+C000128,"Anahi Hans",V)I7L6p+,AnahiHans@example.com,"49/40
+Kakar
+Pondicherry-230650",8344076669,841785178222119
+C000129,"Advik Sane",J2$54GMt,AdvikSane@example.com,"277
+Kannan Zila
+Berhampur 512122",1918871748,3641820118482491
+C000130,"Raghav Chandra",+3ngdG@t,RaghavChandra@example.com,"44/45, Sagar
+Morbi-106564",5625945114,75540798094527
+C000131,"Tara Cherian",k^r8ZyOp,TaraCherian@example.com,"798, Dayal Road, Chandigarh 790480",4258805065,8690417823755127
+C000132,"Riya Varghese",!2*5gJcb,RiyaVarghese@example.com,"133
+Jani Ganj, Tirunelveli-460640",6196205687,1294362887475947
+C000133,"Manjari Srivastava",^2ON#v54,ManjariSrivastava@example.com,"73/475, Varghese Nagar, Yamunanagar-651968",0185909346,299119118599101
+C000134,"Onkar Soni",pg^_4Yug,OnkarSoni@example.com,"09/29
+Raval Chowk
+Madanapalle 612420",5520685024,5587637894164343
+C000135,"Ivana Lad",Q$E2A*#m,IvanaLad@example.com,"H.No. 754, Lanka Marg, Orai-672652",3627727831,50288980915731
+C000136,"Priyansh Saxena",2Z#o4YPd,PriyanshSaxena@example.com,"227
+Ganesan Path
+Ramagundam 346661",6673301730,6129085532895270
+C000137,"Nirvaan Zacharia",&94$wIqO,NirvaanZacharia@example.com,"18
+Bera Path
+Suryapet 584825",3326854040,8847073578082349
+C000138,"Chirag Bhat",#9FJzbBa,ChiragBhat@example.com,"H.No. 667
+Bassi Circle
+Raurkela Industrial Township-645395",8466762017,7214483961222734
+C000139,"Ishita Bail",v$%a4LDq,IshitaBail@example.com,"40
+Singhal Nagar, Dindigul-262392",3500781233,1770488994269413
+C000140,"Ivan Dewan",tY)89H$k,IvanDewan@example.com,"42/967
+Kumar Street
+Madhyamgram-345063",7575320354,1535865504509483
+C000141,"Samar Rattan",$bZ1J+u*,SamarRattan@example.com,"41
+Kari Path, Visakhapatnam 045697",5009930171,4008273926995798
+C000142,"Kiara Amble",W^2!zYfw,KiaraAmble@example.com,"H.No. 86, Yadav Road, Bokaro-646063",5554187012,7176564824115510
+C000143,"Saksham Wali",#1NX_Q*j,SakshamWali@example.com,"H.No. 342, Batta Nagar, Moradabad 233509",0427045971,1163948635447683
+C000144,"Aarna Das",*2nDCEs_,AarnaDas@example.com,"H.No. 276, Ramanathan Road
+Jehanabad-361013",8144480881,3028079311743204
+C000145,"Emir Kibe",GQ_7)NmJ,EmirKibe@example.com,"45/707
+Dayal Nagar, Chapra-510113",0650149173,8337216290204745
+C000146,"Yakshit Bhatia",x*4Gw7kW,YakshitBhatia@example.com,"03, Mane Path, Pondicherry 225528",1071086185,293824874567118
+C000147,"Tejas Halder",9o@G8QVy,TejasHalder@example.com,"18/21
+Brahmbhatt Road
+Varanasi 840840",9314514606,2046496218706306
+C000148,"Rasha Dutta",N+_J48Nl,RashaDutta@example.com,"02/580
+Mahal Chowk, Jamnagar 786216",3327952965,9371217681139704
+C000149,"Zoya Ranganathan",w!_5GtZ5,ZoyaRanganathan@example.com,"573
+Sunder Road
+Vasai-Virar 152055",4074038330,8068336446627835
